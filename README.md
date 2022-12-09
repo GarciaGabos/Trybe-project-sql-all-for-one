@@ -4,7 +4,7 @@
 ## Technologies:
 All technologies applied by me on this project:
 - SQL;
--Docker;
+- Docker;
 
 ## How to run the project:
 - Git clone the repository;
